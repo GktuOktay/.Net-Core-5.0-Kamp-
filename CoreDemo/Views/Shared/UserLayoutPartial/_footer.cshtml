@@ -1,0 +1,26 @@
+﻿<footer>
+    <div class="container">
+        <div class="row">
+            @await Html.PartialAsync("UserLayoutPartial\\footer\\_aboutUs")
+            @await Html.PartialAsync("UserLayoutPartial\\footer\\_latestPost")
+            @await Html.PartialAsync("UserLayoutPartial\\footer\\_newsletter")
+
+        </div>
+        <!-- footer -->
+        <div class="footer-cpy text-center">
+            @await Html.PartialAsync("UserLayoutPartial\\footer\\_socialMedia")
+
+            <div class="w3layouts-agile-copyrightbottom">
+                <p>
+                    © @DateTime.Now.Year Weblog. All Rights Reserved | Design by
+                    <a href="http://w3layouts.com/">W3layouts</a>
+                </p>
+
+            </div>
+        </div>
+
+        <!-- //footer -->
+
+
+    </div>
+</footer>

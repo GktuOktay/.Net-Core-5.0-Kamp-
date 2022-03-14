@@ -151,3 +151,13 @@ C:\Users\goktay\Desktop\.Net Core Murat Yücedağ\CoreDemo\CoreDemo\bin\Debug\ne
 C:\Users\goktay\Desktop\.Net Core Murat Yücedağ\CoreDemo\CoreDemo\bin\Debug\net5.0\DataAccessLayer.pdb
 C:\Users\goktay\Desktop\.Net Core Murat Yücedağ\CoreDemo\CoreDemo\bin\Debug\net5.0\EntityLayer.pdb
 C:\Users\goktay\Desktop\.Net Core Murat Yücedağ\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\goktay\Desktop\.Net Core Murat Yücedağ\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\goktay\Desktop\.Net Core Murat Yücedağ\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\_userLayout.cshtml.g.cs
+C:\Users\goktay\Desktop\.Net Core Murat Yücedağ\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\goktay\Desktop\.Net Core Murat Yücedağ\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\UserLayoutPartial\_header.cshtml.g.cs
+C:\Users\goktay\Desktop\.Net Core Murat Yücedağ\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\UserLayoutPartial\_footer.cshtml.g.cs
+C:\Users\goktay\Desktop\.Net Core Murat Yücedağ\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\UserLayoutPartial\footer\_aboutUs.cshtml.g.cs
+C:\Users\goktay\Desktop\.Net Core Murat Yücedağ\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\UserLayoutPartial\footer\_latestPost.cshtml.g.cs
+C:\Users\goktay\Desktop\.Net Core Murat Yücedağ\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\UserLayoutPartial\footer\_newsletter.cshtml.g.cs
+C:\Users\goktay\Desktop\.Net Core Murat Yücedağ\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\UserLayoutPartial\header\_loginbox.cshtml.g.cs
+C:\Users\goktay\Desktop\.Net Core Murat Yücedağ\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\UserLayoutPartial\footer\_socialMedia.cshtml.g.cs
