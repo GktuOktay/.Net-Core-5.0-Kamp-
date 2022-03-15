@@ -11,6 +11,7 @@ namespace EntityLayer.Concrete
     {
         [Key]
         public int CommentID { get; set; }
+        public string CommentUser { get; set; }
         public string CommentTitle { get; set; }
         public string CommentContent { get; set; }
         public DateTime CommentDate { get; set; }

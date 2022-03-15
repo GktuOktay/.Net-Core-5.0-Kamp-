@@ -1,0 +1,25 @@
+﻿@model IEnumerable<EntityLayer.Concrete.Comment>
+
+<div class="comment-top">
+    <h4>Yorumlar</h4>
+
+    @if (Model.Count() < 1)
+    {
+        <p>Bu bloga henüz yorum yapılmadı. İlk yorumu siz yapın!</p>
+    }
+    @* .Net core'da eğer data null geliyor ise foreach içerisi çalışmaz. Gösterilmez. O blok yokmuş gibi davranır. *@
+    @foreach (var item in Model)
+    {
+        <div class="media">
+            <img src="~/CoreBlogTema/images/t2.jpg" alt="" class="img-fluid" />
+            <div class="media-body">
+                <h5 class="mt-0">@item.CommentUser</h5>
+                <p>
+                    @item.CommentContent
+                </p>
+
+            </div>
+        </div>
+    }
+
+</div>
