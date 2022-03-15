@@ -14,4 +14,3 @@ C:\Users\goktay\Desktop\.Net Core Murat Yücedağ\CoreDemo\BusinessLayer\bin\Deb
 C:\Users\goktay\Desktop\.Net Core Murat Yücedağ\CoreDemo\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
 C:\Users\goktay\Desktop\.Net Core Murat Yücedağ\CoreDemo\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
 C:\Users\goktay\Desktop\.Net Core Murat Yücedağ\CoreDemo\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
-C:\Users\goktay\Desktop\.Net Core Murat Yücedağ\CoreDemo\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete

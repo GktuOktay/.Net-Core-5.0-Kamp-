@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "OxJ4cNJ7N23ztXv/U+CVoy7so5bbCgqa7IbsbeKs+FrXmdkoVn/9J6VsTI+qY85rKR5p2BRTHsrsu6pH9p6K4A==",
+  "dgSpecHash": "/eQbcEzSsOrXlB/DUVcParsYnDvFlFIC2fTKpxunUVdbtAzyX26WCzC+IiWDRg8Qgmx6xHcPeOVkp6uU5TRdEg==",
   "success": true,
   "projectFilePath": "C:\\Users\\goktay\\Desktop\\.Net Core Murat Yücedağ\\CoreDemo\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\goktay\\.nuget\\packages\\fluentvalidation\\10.4.0\\fluentvalidation.10.4.0.nupkg.sha512",
+    "C:\\Users\\goktay\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.4.0\\fluentvalidation.aspnetcore.10.4.0.nupkg.sha512",
+    "C:\\Users\\goktay\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.4.0\\fluentvalidation.dependencyinjectionextensions.10.4.0.nupkg.sha512",
     "C:\\Users\\goktay\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\goktay\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\goktay\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",
